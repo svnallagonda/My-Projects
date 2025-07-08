@@ -110,3 +110,6 @@ accuracy=accuracy_score(y_true=y_test, y_pred=y_pred)
 
 #DataFlair - Print the accuracy
 print("Accuracy: {:.2f}%".format(accuracy*100))
+
+
+# for dataset: https://drive.google.com/file/d/1wWsrN2Ep7x6lWqOXfr4rpKGYrJhWc8z7/view?usp=drive_link
