@@ -1,2 +1,2 @@
-# Project-AWS-
-Serverless Image Generation
+# My_projects
+Serverless Image Generation, Speech Emotion Recognition
